@@ -20,3 +20,7 @@ Written by A, Nobody, an independent writer with no institutional affiliation, t
 ## 📢 Why GitHub?
 
 This book is shared here to maximise transparency, accessibility, and feedback — especially from the technical community. All are welcome to engage, but please read at least the first chapter before commenting. Hand-waving rejection of arguments you haven’t read will be treated accordingly.
+
+## 📄 Licence
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
