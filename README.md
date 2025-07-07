@@ -15,7 +15,7 @@ Written by A, Nobody, an independent writer with no institutional affiliation, t
 ## 🤝 How You Can Help
 
 - Share this repo with others interested in AI safety, economics, or existential risk.
-- Submit [issues](https://github.com/funnyfranco/driven-to-extinction/issues) or pull requests if you spot logical flaws, typos, or counterarguments — all feedback is welcome via GitHub.
+- Submit [issues](https://github.com/funnyfranco/driven_to_extinction/issues) or pull requests if you spot logical flaws, typos, or counterarguments — all feedback is welcome via GitHub.
 
 ## 📢 Why GitHub?
 
