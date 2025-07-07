@@ -6,7 +6,7 @@ Unlike most treatments of AGI risk, this book claims that alignment is not just 
 
 ## 📖 Read the Book
 
-- [Download PDF](./DrivenToExtinction.pdf)
+- [Download PDF](./Driven to Extinction_ Capitalism, Competition, and the Coming AGI Catastrophe.pdf)
 
 ## 👤 About the Author
 
